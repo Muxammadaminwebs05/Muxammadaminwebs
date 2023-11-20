@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **English Essential**     
   
 - 👯 I’m looking to collaborate on [It academy](https://github.com/abduhamidbotirov/It_academy.git)   
-- 
+-  
      
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
