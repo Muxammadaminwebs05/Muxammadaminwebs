@@ -15,7 +15,7 @@
  
 - 👯 I’m looking to collaborate on [It academy](https://github.com/abduhamidbotirov/It_academy.git)   
 - 
-    
+     
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/muxammadamin-qobiljonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muxammadamin-qobiljonov" height="30" width="40" /></a>
